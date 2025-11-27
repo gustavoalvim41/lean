@@ -1,7 +1,5 @@
 # Roadmap
 
----
-
 Track the progress of the project and see what’s coming next.
 
 ## ✅ **1.0 — First Release**
