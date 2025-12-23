@@ -3,7 +3,7 @@
 Follow the project's progress and see what's coming next 👇
 
 ## 1.0 — First release
-- [x] Quick pick: bike, track, gear and weather  
+- [x] Quick pick: bike, track, suits and weather  
   All set before you hit the track. Save time.
 - [x] Jump straight into the track  
   Launch the game and start riding.
