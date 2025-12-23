@@ -11,5 +11,10 @@ Follow the project’s progress and see what’s coming next 👇
 - [ ] Stable core  
   The essentials working smoothly, no headaches.
 
+## **1.1**
+
+- [ ] Bike, track and gear preview  
+  Visual preview of bikes, tracks and riding gear before entering the track.
+  
 👉 Follow the development and get involved: **[Patreon](https://www.patreon.com/cw/alv21x)**
 
