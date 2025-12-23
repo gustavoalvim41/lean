@@ -1,9 +1,15 @@
 # Roadmap
 
-Track the progress of the project and see what’s coming next.
+Follow the project’s progress and see what’s coming next 👇
 
 ## **1.0 — First Release**
 
-- [ ] Choose bike, track and rider gear  
-- [x] Launch the game straight into the track  
-- [ ] Stable core features
+- [ ] Quick selection of bike, track, gear and weather  
+  Everything set before hitting the track. No wasted time.
+- [x] Jump straight into the track  
+  Launch the game and start riding.
+- [ ] Stable core  
+  The essentials working smoothly, no headaches.
+
+👉 Follow the development and get involved: **[Patreon](https://www.patreon.com/cw/alv21x)**
+
