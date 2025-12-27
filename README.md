@@ -1,5 +1,5 @@
 Hey everyone! 👋
-I’m Gustavo, creator of Lean — a Content Manager for GP Bikes & MX Bikes.
+I’m Gustavo, creator of Lean — a Content Manager for GP Bikes.
 
 Lean makes it easier to manage your mods, configs, and game setup in one place.
 Less time tweaking files. More time riding.
